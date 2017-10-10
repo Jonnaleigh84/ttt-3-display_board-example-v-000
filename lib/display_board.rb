@@ -6,7 +6,7 @@ def display_board (board)
 end
 
 
-X |   |   
+X |   |
    | O |
    |   | X
 
